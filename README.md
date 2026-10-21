@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ArduPilot-007BC0?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" alt="ArduPilot"/>
+  <img src="https://img.shields.io/badge/ArduPilot-007BC0?style=flat-square&logoColor=white" alt="ArduPilot"/>
   <img src="https://img.shields.io/badge/ROS%201%20%2F%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
