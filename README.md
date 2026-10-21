@@ -32,13 +32,13 @@ odometry as a fallback when GNSS degrades or disappears.
 
 | Project | What it is |
 |---|---|
-| 🔥 **[FireHawk Mk1](https://github.com/MuazTahir750/firehawk-wildfire-drone)** | Autonomous wildfire-spotting quadcopter, built from scratch in Webots — custom PID stabilisation, lawnmower search, colour-based fire detection, ground-plane GPS projection |
-| 📡 **[Drone RF Detection](https://github.com/MuazTahir750/drone-rf-detection)** | Passive radar using a WiFi hotspot as illuminator of opportunity — detects a drone that isn't transmitting, via propeller micro-Doppler |
-| 🎯 **[UAV Precision Landing](https://github.com/MuazTahir750/uav-precision-landing)** | ArUco-guided descent to centimetre repeatability, including the committed final phase once the marker leaves the camera's view |
-| 🛡️ **[UAV Obstacle Avoidance](https://github.com/MuazTahir750/uav-obstacle-avoidance)** | Reactive LiDAR + ToF avoidance layered underneath GPS waypoint navigation |
-| 🗺️ **[Indoor GPS-Denied Navigation](https://github.com/MuazTahir750/indoor-nav-rtabmap)** | RTAB-Map visual SLAM feeding ArduPilot's EKF as an external nav source |
-| 👥 **[Human-Aware Navigation](https://github.com/MuazTahir750/cohan-tiago-human-aware-nav)** | CoHAN social navigation on a PAL Tiago — planning around people, not just around obstacles |
-| 👁️ **[OAK-D Perception](https://github.com/MuazTahir750/oakd-ros-perception)** | OAK-D depth + on-camera inference paired with VINS-Fusion visual-inertial odometry |
+| 🔥 **[FireHawk Mk1](https://github.com/MuazTahirDev/firehawk-wildfire-drone)** | Autonomous wildfire-spotting quadcopter, built from scratch in Webots — custom PID stabilisation, lawnmower search, colour-based fire detection, ground-plane GPS projection |
+| 📡 **[Drone RF Detection](https://github.com/MuazTahirDev/drone-rf-detection)** | Passive radar using a WiFi hotspot as illuminator of opportunity — detects a drone that isn't transmitting, via propeller micro-Doppler |
+| 🎯 **[UAV Precision Landing](https://github.com/MuazTahirDev/uav-precision-landing)** | ArUco-guided descent to centimetre repeatability, including the committed final phase once the marker leaves the camera's view |
+| 🛡️ **[UAV Obstacle Avoidance](https://github.com/MuazTahirDev/uav-obstacle-avoidance)** | Reactive LiDAR + ToF avoidance layered underneath GPS waypoint navigation |
+| 🗺️ **[Indoor GPS-Denied Navigation](https://github.com/MuazTahirDev/indoor-nav-rtabmap)** | RTAB-Map visual SLAM feeding ArduPilot's EKF as an external nav source |
+| 👥 **[Human-Aware Navigation](https://github.com/MuazTahirDev/cohan-tiago-human-aware-nav)** | CoHAN social navigation on a PAL Tiago — planning around people, not just around obstacles |
+| 👁️ **[OAK-D Perception](https://github.com/MuazTahirDev/oakd-ros-perception)** | OAK-D depth + on-camera inference paired with VINS-Fusion visual-inertial odometry |
 
 Also: a **25-drone swarm system** flown simultaneously in field tests, with a
 **LoRa ground control station** operating the whole fleet over a ~300 B/s link.
